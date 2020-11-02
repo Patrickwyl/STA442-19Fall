@@ -9,4 +9,4 @@ Assignment 2: 10/10 \
 Assignment 3: 9.5/10 \
 Assignment 4: 8.5/10 
 ## Important
-As per University of Toronto's policy on Turnitin.com, all my assignment files were (automatically) submitted to Turnitin plagiarism detection software. My assignment submissions has been included as source documents in the Turnitin.com reference database. My assignment and lab/project works here are not intended to be reused for any academic purposes.
+As per University of Toronto's policy on Turnitin.com, all my assignment/lab/project files were (automatically) submitted to Turnitin plagiarism detection software. My assignment/lab/project submissions has been included as source documents in the Turnitin.com reference database. My assignment/lab/project works here are not intended to be reused for any academic purposes.
